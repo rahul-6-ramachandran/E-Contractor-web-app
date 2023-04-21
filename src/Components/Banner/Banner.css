@@ -1,0 +1,18 @@
+.banner{
+    
+    background-size: cover;
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 65px;
+    
+    
+}  
+
+.bannerText{
+    width: 500px;
+    color:rgb(24, 4, 4);
+    background-color: rgba(248, 248, 255, 0.364);
+    font-family: Shopify Sans Web,Roboto,Segoe UI,Helvetica Neue,sans-serif;
+    margin-bottom: auto;
+}
+

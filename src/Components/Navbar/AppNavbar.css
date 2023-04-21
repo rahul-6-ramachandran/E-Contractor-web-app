@@ -1,0 +1,10 @@
+.logo{
+    position: static;
+    float: right;
+    height: 40px;
+    width: 100px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+}
